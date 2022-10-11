@@ -1,3 +1,3 @@
 React code for www.justooney.net
 
-All code copyright Justooney, 2020-22
+All code copyright Justooney, 2020-22.
